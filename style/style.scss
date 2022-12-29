@@ -1,0 +1,20 @@
+$Bordeaux : #463239;
+$Green : #c9e265;
+$fontAdvent : 'AdventPro', sans-serif;
+$fontRoboto : 'Roboto', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: $fontRoboto;
+}
+h1, h2, h3 {
+    font-family: $fontAdvent;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
